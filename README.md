@@ -2,13 +2,13 @@
 
 **`Analista de Dados`**
 
-Olá! Eu sou o Lucas Lima, um profissional de 26 anos em empolgante transição de carreira para a área de Data Science e Analytics.
+Olá! Me Lucas Lima, um profissional de 26 anos em transição de carreira para a área de Data Science e Analytics.
 
 Minha base é o Bacharelado em Enfermagem, uma jornada que me proporcionou uma visão aprofundada e empática dos desafios e fluxos de trabalho dentro do setor de Saúde. Atualmente, estou me especializando através da Pós-Graduação em Data Science e Analytics pela PUC-Rio.
 
-Meu foco é claro: aplicar a análise e modelagem de dados para elevar a qualidade do cuidado e otimizar a gestão hospitalar e de sistemas de saúde. Neste portfólio, você encontrará projetos que demonstram minha capacidade de transformar dados em ações, focando na criação de indicadores de performance (KPIs), otimização de processos clínicos e no desenvolvimento de Dashboards estratégicos em ferramentas como Power BI, Looker Studio e Excel.
+Meu foco é aplicar a análise e modelagem de dados para elevar a qualidade do cuidado e otimizar a gestão hospitalar e de sistemas de saúde. Neste portfólio, você encontrará projetos que demonstram minha capacidade de transformar dados em ações, focando na criação de indicadores de performance (KPIs), otimização de processos clínicos e no desenvolvimento de Dashboards estratégicos em ferramentas como Power BI, Looker Studio e Excel.
 
-Minha stack inclui Python (Pandas, Scikit-learn), SQL e ferramentas de visualização. Sinta-se à vontade para explorar meus projetos e entre em contato!
+Minha stack inclui Python, SQL e ferramentas de visualização. Sinta-se à vontade para explorar meus projetos e entre em contato!
 
 <p align="left">
     </a> 
