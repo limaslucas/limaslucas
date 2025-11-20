@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Olá! Me Lucas Lima, um profissional de 26 anos em transição de carreira para a área de Data Science e Analytics.
+Olá! Me chamo Lucas Lima, um profissional de 26 anos em transição de carreira para a área de Data Science e Analytics.
 
 Minha base é o Bacharelado em Enfermagem, uma jornada que me proporcionou uma visão aprofundada e empática dos desafios e fluxos de trabalho dentro do setor de Saúde. Atualmente, estou me especializando através da Pós-Graduação em Data Science e Analytics pela PUC-Rio.
 
